@@ -13,20 +13,6 @@ CAMTS-UNet is a U-Net-style architecture that combines:
 
 > **Note:** This repository currently contains the exported training script. The script was generated from notebook code and includes the complete data preparation, training, evaluation, visualization, baseline comparison, and inference pipeline.
 
-## Repository contents
-
-- [`CAMTS_UNet_Full_extracted.py`](CAMTS_UNet_Full_extracted.py) — complete training and evaluation pipeline
-- `dataset_description.png` — generated dataset overview
-- `methodology_pipeline.png` — generated methodology diagram
-- `training_curves.png` — generated training curves
-- `quantitative_donut_charts.png` — generated metric visualization
-- `qualitative_analysis.png` — generated qualitative predictions
-- `predictions_gradcam.png` — generated Grad-CAM visualizations
-- `mhd_comparison.png` — generated mean Hausdorff distance comparison
-- `model_comparison_table.png` — generated baseline comparison table
-- `single_inference.png` — generated single-image inference visualization
-
-The image files above are created when the corresponding sections of the script are run; they may not be present in a fresh checkout.
 
 ## Dataset
 
